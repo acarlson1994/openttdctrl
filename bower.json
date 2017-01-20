@@ -1,0 +1,10 @@
+{
+  "name": "openttd-ctrl",
+  "dependencies": {
+    "ember": "~2.10.0",
+    "ember-cli-shims": "0.1.3",
+    "polymer": "^1.7.0",
+    "webcomponentsjs": "^0.7.23",
+    "app-layout": "PolymerElements/app-layout#^0.10.6"
+  }
+}
